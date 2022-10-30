@@ -1083,6 +1083,9 @@ a {
     color: var(--main-color);
     font-weight: bold;
 }
+.created-by {
+    font-size: 25px;
+}
 /* End footer */
 
 /* Start Grid System */
